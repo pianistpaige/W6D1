@@ -74,7 +74,6 @@ storeItems.forEach(function(item){
   });
 
   $('#contentContainer').addClass('darkMode');
-  $('#itemInfo').addClass('darkmode');
 
 
 let button = document.getElementById("clickMe");
